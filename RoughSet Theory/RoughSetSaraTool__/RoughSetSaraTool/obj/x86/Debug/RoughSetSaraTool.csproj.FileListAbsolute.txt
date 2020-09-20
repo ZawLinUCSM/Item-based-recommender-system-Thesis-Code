@@ -1,0 +1,8 @@
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\Project\Project\RoughSetSaraTool__\RoughSetSaraTool\bin\Debug\RoughSetSaraTool.exe
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\Project\Project\RoughSetSaraTool__\RoughSetSaraTool\bin\Debug\RoughSetSaraTool.pdb
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\Project\Project\RoughSetSaraTool__\RoughSetSaraTool\obj\x86\Debug\RoughSetSaraTool.csprojResolveAssemblyReference.cache
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\Project\Project\RoughSetSaraTool__\RoughSetSaraTool\obj\x86\Debug\RoughSetSaraTool.Form1.resources
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\Project\Project\RoughSetSaraTool__\RoughSetSaraTool\obj\x86\Debug\RoughSetSaraTool.Properties.Resources.resources
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\Project\Project\RoughSetSaraTool__\RoughSetSaraTool\obj\x86\Debug\RoughSetSaraTool.csproj.GenerateResource.Cache
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\Project\Project\RoughSetSaraTool__\RoughSetSaraTool\obj\x86\Debug\RoughSetSaraTool.exe
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\Project\Project\RoughSetSaraTool__\RoughSetSaraTool\obj\x86\Debug\RoughSetSaraTool.pdb

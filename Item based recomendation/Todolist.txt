@@ -1,0 +1,5 @@
+1.Same Prediction==>OK
+2. Same Users==>OK
+3.Ju Ju,James(value>)(Delete)==>ok
+4.Change Categories==>not ok
+5.Diffreent Movies & Order By Prediction Ascending==>OK

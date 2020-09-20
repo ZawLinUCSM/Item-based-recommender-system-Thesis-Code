@@ -1,0 +1,42 @@
+C:\Users\Zaw Lin Htay\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\RoughSetTheory.exe.config
+C:\Users\Zaw Lin Htay\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\DecisionSystem.mdf
+C:\Users\Zaw Lin Htay\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\DecisionSystem_log.ldf
+C:\Users\Zaw Lin Htay\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\RoughSetTheory.exe
+C:\Users\Zaw Lin Htay\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\RoughSetTheory.pdb
+C:\Users\Zaw Lin Htay\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.csprojResolveAssemblyReference.cache
+C:\Users\Zaw Lin Htay\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.Form1.resources
+C:\Users\Zaw Lin Htay\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.FrmPatientLists.resources
+C:\Users\Zaw Lin Htay\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.Properties.Resources.resources
+C:\Users\Zaw Lin Htay\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.csproj.GenerateResource.Cache
+C:\Users\Zaw Lin Htay\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.exe
+C:\Users\Zaw Lin Htay\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.pdb
+C:\Users\Zaw Lin Htay\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\DataObject.dll
+C:\Users\Zaw Lin Htay\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\DataObject.pdb
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\DecisionSystem.mdf
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\DecisionSystem_log.ldf
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\RoughSetTheory.exe.config
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\RoughSetTheory.exe
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\RoughSetTheory.pdb
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\DataObject.dll
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\DataObject.pdb
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.csprojResolveAssemblyReference.cache
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.Form1.resources
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.FrmPatientLists.resources
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.Properties.Resources.resources
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.csproj.GenerateResource.Cache
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.exe
+C:\Users\BRIGHTZ@W\Desktop\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.pdb
+D:\Language Tutorials\Thesis Code\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\RoughSetTheory.exe.config
+D:\Language Tutorials\Thesis Code\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.exe
+D:\Language Tutorials\Thesis Code\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.pdb
+D:\Language Tutorials\Thesis Code\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\DecisionSystem.mdf
+D:\Language Tutorials\Thesis Code\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\DecisionSystem_log.ldf
+D:\Language Tutorials\Thesis Code\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\RoughSetTheory.exe
+D:\Language Tutorials\Thesis Code\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\RoughSetTheory.pdb
+D:\Language Tutorials\Thesis Code\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\DataObject.dll
+D:\Language Tutorials\Thesis Code\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\bin\Debug\DataObject.pdb
+D:\Language Tutorials\Thesis Code\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.csprojResolveAssemblyReference.cache
+D:\Language Tutorials\Thesis Code\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.Form1.resources
+D:\Language Tutorials\Thesis Code\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.FrmPatientLists.resources
+D:\Language Tutorials\Thesis Code\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.Properties.Resources.resources
+D:\Language Tutorials\Thesis Code\Kyaw Zin Thant\RoughSetTheory\RoughSetTheory\obj\Debug\RoughSetTheory.csproj.GenerateResource.Cache
