@@ -1,3 +1,6 @@
-# ThesisCodes
-This is a repo of thesis codes I helped for some master students.
+# This is a repo I helped for some master students.
+ 
 # Item based movie recommendation system
+
+#Technologies
+  ASP.NET WEB FORMS, C#, SQL Server
